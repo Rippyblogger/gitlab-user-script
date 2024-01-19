@@ -167,7 +167,7 @@ if __name__ == "__main__":
     user_id = ''
     working_directory = os.getcwd()
     save_directory = f'{working_directory}/csv_files'
-    pat_token = 'glpat-VQxbuDs-HEsxx3dwoAdY'
+    pat_token = 'glpat-xxxxxx-xxxxxxxxxx'
     
     if os.path.exists(f'{working_directory}/csv_files'):
         pass
